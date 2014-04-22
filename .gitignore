@@ -1,8 +1,11 @@
-<<<<<<< HEAD
-.ignore/
-=======
+#################
+## Webstorm
+#################
+
 .idea/
->>>>>>> hotfix/Typo-fix-22-04
+
+
+>>>>>>> testing/ignore-release1
 #################
 ## Eclipse
 #################
