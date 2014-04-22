@@ -3,6 +3,8 @@
 #################
 
 .idea/
+.idea
+workspace.xml
 
 
 >>>>>>> testing/ignore-release1
